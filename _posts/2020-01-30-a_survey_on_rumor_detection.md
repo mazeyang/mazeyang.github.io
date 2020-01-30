@@ -1,5 +1,17 @@
 ---
+
+layout: article
 title: A Survey on Rumor Detection
+mode: immersive
+header:
+  theme: dark
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /docs/assets/images/cover3.jpg
 tags: Rumor_Detection
 
 ---
@@ -14,8 +26,11 @@ tags: Rumor_Detection
 
 {:toc}
 
-### 1. 存在的挑战
+
 <!--more-->
+
+### 1. 存在的挑战
+
 
 - 语义理解。谣言文本通常较短，来自于新浪微博和Twitter等平台。短文本所包含的信息量较少，这使得对于判定其是否是谣言带来了很大的困难。
 - 内容丰富。谣言涉及的话题可以是生活中的方方面面，对于一类问题可以有很好检测效果的分类器可能对于其他话题束手无策。
