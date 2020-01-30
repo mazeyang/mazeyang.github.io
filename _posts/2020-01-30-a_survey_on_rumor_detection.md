@@ -20,6 +20,7 @@ tags: Rumor_Detection
 
 *Juan Cao, Junbo Guo, Xirong Li, Zhiwei Jin, Han Guo, and Jintao Li* ，2018
 
+
 [[pdf](<https://arxiv.org/pdf/1807.03505.pdf>)]
 
 
@@ -29,7 +30,7 @@ tags: Rumor_Detection
 
 <!--more-->
 
-### 1. 存在的挑战
+## 1. 存在的挑战
 
 
 - 语义理解。谣言文本通常较短，来自于新浪微博和Twitter等平台。短文本所包含的信息量较少，这使得对于判定其是否是谣言带来了很大的困难。
@@ -39,11 +40,10 @@ tags: Rumor_Detection
 
 
 
-### 2. 方法分类
+## 2. 方法分类
 
 自动谣言检测的发展阶段图：
-
-<div align=center>![paradigms for automatic rumor detection](<https://github.com/mazeyang/mazeyang.github.io/blob/master/images/rumor%20detection/paradigms%20for%20automatic%20rumor%20detection.jpg?raw=true>)</div>
+<div style="align: center">![paradigms for automatic rumor detection](<https://github.com/mazeyang/mazeyang.github.io/blob/master/images/rumor%20detection/paradigms%20for%20automatic%20rumor%20detection.jpg?raw=true>)</div>
 
 - 基于手工特征的方法。
 
@@ -59,11 +59,11 @@ tags: Rumor_Detection
 
 
 
-### 3. 基于手工特征的方法
+## 3. 基于手工特征的方法
 
-<div align=center>![Main categories of features](https://github.com/mazeyang/mazeyang.github.io/blob/master/images/rumor%20detection/Main%20categories%20of%20features.jpg?raw=true)</div>
+<div style="align: center">![Main categories of features](https://github.com/mazeyang/mazeyang.github.io/blob/master/images/rumor%20detection/Main%20categories%20of%20features.jpg?raw=true)</div>
 
-#### 3.1 内容特征
+### 3.1 内容特征
 
 - 文字内容：描述新闻事件的文字。它们提供了事件的详细信息，并且可能包含对故事的某些意见或观点。
 - 图片/视频：有时，一条消息会提供视觉素材来支持其故事。
@@ -71,7 +71,7 @@ tags: Rumor_Detection
 
 从上述原始内容中提取了各种内容特征，可以将其分为两种主要类型：文本特征和视觉特征。
 
-#### 3.2 社交上下文特征
+### 3.2 社交上下文特征
 
 - 用户特征
 - 传播特征
@@ -79,7 +79,7 @@ tags: Rumor_Detection
 
 
 
-### 4. 基于传播的方法
+## 4. 基于传播的方法
 
 基于手工制作的功能的方法分别评估每个消息和事件。但是，社交媒体上的消息和事件之间存在一些潜在的相关性。一个简单的观察结果是，类似的消息在事件中倾向于具有相同的真实性极性。 通过挖掘实体之间的关系来提出基于传播的方法，并从整体上评估消息和事件的可信度。如图2所示，基于传播的谣言检测范例通常有两个主要步骤：
 
@@ -89,11 +89,11 @@ tags: Rumor_Detection
 
 三类方法如下：
 
-<div align=center>![three propagation-based methods](https://github.com/mazeyang/mazeyang.github.io/blob/master/images/rumor%20detection/three%20propagation-based%20methods.jpg?raw=true)</div>
+<div style="align: center">![three propagation-based methods](https://github.com/mazeyang/mazeyang.github.io/blob/master/images/rumor%20detection/three%20propagation-based%20methods.jpg?raw=true)</div>
 
 
 
-### 5. 基于深度学习的方法
+## 5. 基于深度学习的方法
 
 【TODO】
 
