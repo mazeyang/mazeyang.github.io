@@ -43,7 +43,7 @@ tags: Rumor_Detection
 ## 2. 方法分类
 
 自动谣言检测的发展阶段图：
-<div style="align: center">![paradigms for automatic rumor detection](<https://github.com/mazeyang/mazeyang.github.io/blob/master/images/rumor%20detection/paradigms%20for%20automatic%20rumor%20detection.jpg?raw=true>)</div>
+![paradigms for automatic rumor detection](<https://github.com/mazeyang/mazeyang.github.io/blob/master/images/rumor%20detection/paradigms%20for%20automatic%20rumor%20detection.jpg?raw=true>)
 
 - 基于手工特征的方法。
 
@@ -61,7 +61,7 @@ tags: Rumor_Detection
 
 ## 3. 基于手工特征的方法
 
-<div style="align: center">![Main categories of features](https://github.com/mazeyang/mazeyang.github.io/blob/master/images/rumor%20detection/Main%20categories%20of%20features.jpg?raw=true)</div>
+![Main categories of features](https://github.com/mazeyang/mazeyang.github.io/blob/master/images/rumor%20detection/Main%20categories%20of%20features.jpg?raw=true)
 
 ### 3.1 内容特征
 
@@ -89,7 +89,7 @@ tags: Rumor_Detection
 
 三类方法如下：
 
-<div style="align: center">![three propagation-based methods](https://github.com/mazeyang/mazeyang.github.io/blob/master/images/rumor%20detection/three%20propagation-based%20methods.jpg?raw=true)</div>
+![three propagation-based methods](https://github.com/mazeyang/mazeyang.github.io/blob/master/images/rumor%20detection/three%20propagation-based%20methods.jpg?raw=true)
 
 
 
