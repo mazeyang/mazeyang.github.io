@@ -1,4 +1,8 @@
-# A Survey on Rumor Detection
+---
+title: A Survey on Rumor Detection
+tags: Rumor Detection
+
+---
 
 《Automatic Rumor Detection on Microblogs: A Survey》
 
