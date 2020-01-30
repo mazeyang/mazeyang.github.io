@@ -1,6 +1,6 @@
 ---
 title: A Survey on Rumor Detection
-tags: 'Rumor Detection'
+tags: Rumor_Detection
 
 ---
 
