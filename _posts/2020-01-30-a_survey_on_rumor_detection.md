@@ -20,6 +20,7 @@ tags: Rumor_Detection
 
 *Juan Cao, Junbo Guo, Xirong Li, Zhiwei Jin, Han Guo, and Jintao Li* ，2018 TKDE
 
+<!--more-->
 
 [[pdf](<https://arxiv.org/pdf/1807.03505.pdf>)]
 
@@ -28,7 +29,7 @@ tags: Rumor_Detection
 
 随着社交媒体的发展，网络谣言已成为一个越来越严重的问题。商业巨头，政府机构和研究人员都在努力消除谣言的负面影响。我们亟需在真实场景下表现优秀的谣言检测算法。
 
-<!--more-->
+
 
 ## 1. 存在的挑战
 
@@ -105,7 +106,7 @@ tags: Rumor_Detection
 
 ## 6. 数据集
 
-![Classic rumor detection datasets](https://github.com/mazeyang/mazeyang.github.io/blob/master/images/classic_rumor_detection_datasets.jpg?raw=true)
+![Classic rumor detection datasets](/images/classic_rumor_detection_datasets.jpg)
 
 
 

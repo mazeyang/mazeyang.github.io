@@ -20,12 +20,13 @@ tags: Rumor_Detection
 
 *Jing Ma, Wei Gao, Prasenjit Mitra, Sejeong Kwon, Bernard J. Jansen, Kam-Fai Wong, Meeyoung Cha*, 2016 IJCAI
 
-[pdf](https://www.ijcai.org/Proceedings/16/Papers/537.pdf)
+<!--more-->
 
+[pdf](https://www.ijcai.org/Proceedings/16/Papers/537.pdf)
 
 {:toc}
 
 谣言检测经典论文。这是第一篇使用神经网络做谣言检测的论文，后续论文均以此论文作为对比方法做比较。
 
-<!--more-->
+
 
