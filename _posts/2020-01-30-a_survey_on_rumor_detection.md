@@ -18,15 +18,15 @@ tags: Rumor_Detection
 
 《Automatic Rumor Detection on Microblogs: A Survey》
 
-*Juan Cao, Junbo Guo, Xirong Li, Zhiwei Jin, Han Guo, and Jintao Li* ，2018 
+*Juan Cao, Junbo Guo, Xirong Li, Zhiwei Jin, Han Guo, and Jintao Li* ，2018 TKDE
 
 
 [[pdf](<https://arxiv.org/pdf/1807.03505.pdf>)]
 
 
-
 {:toc}
 
+随着社交媒体的发展，网络谣言已成为一个越来越严重的问题。商业巨头，政府机构和研究人员都在努力消除谣言的负面影响。我们亟需在真实场景下表现优秀的谣言检测算法。
 
 <!--more-->
 
@@ -43,7 +43,7 @@ tags: Rumor_Detection
 ## 2. 方法分类
 
 自动谣言检测的发展阶段图：
-![paradigms for automatic rumor detection](<https://github.com/mazeyang/mazeyang.github.io/blob/master/images/rumor%20detection/paradigms%20for%20automatic%20rumor%20detection.jpg?raw=true>)
+![paradigms for automatic rumor detection](<https://github.com/mazeyang/mazeyang.github.io/blob/master/images/rumor_detection/paradigms_for_automatic_rumor_detection.jpg?raw=true>)
 
 - 基于手工特征的方法。
 
@@ -61,7 +61,7 @@ tags: Rumor_Detection
 
 ## 3. 基于手工特征的方法
 
-![Main categories of features](https://github.com/mazeyang/mazeyang.github.io/blob/master/images/rumor%20detection/Main%20categories%20of%20features.jpg?raw=true)
+![Main categories of features](https://github.com/mazeyang/mazeyang.github.io/blob/master/images/rumor_detection/main_categories_of_features.jpg?raw=true)
 
 ### 3.1 内容特征
 
@@ -89,7 +89,7 @@ tags: Rumor_Detection
 
 三类方法如下：
 
-![three propagation-based methods](https://github.com/mazeyang/mazeyang.github.io/blob/master/images/rumor%20detection/three%20propagation-based%20methods.jpg?raw=true)
+![three propagation-based methods](https://github.com/mazeyang/mazeyang.github.io/blob/master/images/rumor_detection/three_propagation-based_methods.jpg?raw=true)
 
 
 
@@ -105,7 +105,7 @@ tags: Rumor_Detection
 
 ## 6. 数据集
 
-![Classic rumor detection datasets](https://github.com/mazeyang/mazeyang.github.io/blob/master/images/Classic%20rumor%20detection%20datasets.jpg?raw=true)
+![Classic rumor detection datasets](https://github.com/mazeyang/mazeyang.github.io/blob/master/images/classic_rumor_detection_datasets.jpg?raw=true)
 
 
 
