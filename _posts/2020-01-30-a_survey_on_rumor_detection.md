@@ -2,6 +2,7 @@
 
 layout: article
 title: A Survey on Rumor Detection
+cover: /docs/assets/images/axure/page-article-header-overlay-background-image-immersive-translucent-header.jpg
 mode: immersive
 header:
   theme: dark
@@ -106,7 +107,7 @@ tags: Rumor_Detection
 
 ## 6. 数据集
 
-![Classic rumor detection datasets](/images/classic_rumor_detection_datasets.jpg)
+![Classic rumor detection datasets](https://github.com/mazeyang/mazeyang.github.io/blob/master/images/classic_rumor_detection_datasets.jpg?raw=true)
 
 
 
