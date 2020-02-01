@@ -2,8 +2,6 @@
 
 layout: article
 title: A Survey on Rumor Detection
-key: page-article-header-overlay-background-image-ITH
-cover: /docs/assets/images/axure/page-article-header-overlay-background-image-immersive-translucent-header.jpg
 mode: immersive
 header:
   theme: dark
