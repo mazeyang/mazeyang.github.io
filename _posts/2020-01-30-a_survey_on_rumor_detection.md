@@ -2,6 +2,7 @@
 
 layout: article
 title: A Survey on Rumor Detection
+key: page-article-header-overlay-background-image-ITH
 cover: /docs/assets/images/axure/page-article-header-overlay-background-image-immersive-translucent-header.jpg
 mode: immersive
 header:
@@ -11,7 +12,7 @@ article_header:
   theme: dark
   background_color: '#203028'
   background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87, .4), rgba(139, 34, 139, .4))'
     src: /docs/assets/images/cover3.jpg
 tags: Rumor_Detection
 
@@ -107,7 +108,7 @@ tags: Rumor_Detection
 
 ## 6. 数据集
 
-![Classic rumor detection datasets](https://github.com/mazeyang/mazeyang.github.io/blob/master/images/classic_rumor_detection_datasets.jpg?raw=true)
+![Classic rumor detection datasets](https://github.com/mazeyang/mazeyang.github.io/blob/master/images/rumor_detection/classic_rumor_detection_datasets.jpg?raw=true)
 
 
 
