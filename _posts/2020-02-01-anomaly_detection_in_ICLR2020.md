@@ -1,10 +1,13 @@
 ---
 title: Anomaly Detection in ICLR 2020
-tags: Anomaly_Detection
+tags: Anomaly_Detection, Semi-supervised_Learning, Unsupervised_Learning
 ---
 
-7 posters
+Topic: Anomaly/Novelty/Outlier Detection, Semi-supervised/Unsupervised Learning
 
+7 posters in [ICLR 2020](https://openreview.net/group?id=ICLR.cc/2020/Conference)
+
+<!--more-->
 
 
 - 1. Classification-Based Anomaly Detection for General Data. *Liron Bergman, Yedid Hoshen* [[pdf]](https://openreview.net/pdf?id=H1lK_lBtvS)
