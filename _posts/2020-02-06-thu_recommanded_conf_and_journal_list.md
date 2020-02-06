@@ -1,4 +1,9 @@
-# 清华大学计算机学科推荐学术会议和期刊列表 (TH-CPL) 
+---
+
+title: 清华大学计算机学科推荐学术会议和期刊列表 (TH-CPL)
+tags: List
+
+---
 
 各个会议的deadline可参考[http://www.call4papers.cn/ccf/ccf-1.jsp](http://www.call4papers.cn/ccf/ccf-1.jsp)
 
