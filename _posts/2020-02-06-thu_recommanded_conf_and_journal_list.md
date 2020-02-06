@@ -1,25 +1,184 @@
 # 清华大学计算机学科推荐学术会议和期刊列表 (TH-CPL) 
 
-个人整理，欢迎纠错和更新
+各个会议的deadline可参考[http://www.call4papers.cn/ccf/ccf-1.jsp](http://www.call4papers.cn/ccf/ccf-1.jsp)
 
-各个会议的deadline可参考[http://www.call4papers.cn/ccf/ccf-1.jsp](http://www.call4papers.cn/ccf/ccf-1.jsp)，感觉这网站挺好用？
+<!--more-->
 
 ## 分类类别
 
-1. [高性能计算](#高性能计算)
-2. [计算机网络](#计算机网络)
-3. [网络与信息安全](#网络与信息安全)
-4. [理论计算机科学](#理论计算机科学)
-5. [系统软件与软件工程](#系统软件与软件工程)
-6. [数据库与数据挖掘](#数据库与数据挖掘)
-7. [人工智能与模式识别](#人工智能与模式识别)
-8. [计算机图形学与多媒体](#计算机图形学与多媒体)
+1. [人工智能与模式识别](#人工智能与模式识别)
+2. [数据库与数据挖掘](#数据库与数据挖掘) 
+3. [计算机图形学与多媒体](#计算机图形学与多媒体)
+4. [高性能计算](#高性能计算)
+5. [计算机网络](#计算机网络)
+6. [网络与信息安全](#网络与信息安全)
+7. [理论计算机科学](#理论计算机科学)
+8. [系统软件与软件工程](#系统软件与软件工程)
 9. [人机交互与普适计算](#人机交互与普适计算)
 10. [综合与交叉](#综合与交叉)
 
 
 
-
+## 人工智能与模式识别
+名称|全称|截稿时间|结果时间|篇幅|官网
+-|-|-|-|-|-
+A类期刊| | | | |
+TPAMI|IEEE Trans on Pattern Analysis and Machine Intelligence|-|-|-|-
+IJCV|International Journal of Computer Vision|-|-|-|-
+JMLR|Journal of Machine Learning Research|-|-|-|-
+TR|IEEE Transactions on Robotics|-|-|-|-
+Al|Artificial Intelligence|2020-03-01|-|-|-
+TASLP|IEEE Transactions on Audio Speech, and Language Processing|-|-|-|-
+B类期刊| | | | |
+TEC|IEEE Transactions on Evolutionary Computation|-|-|-|-
+TNNLS|IEEE Transactions on Neural Networks and learning systems|-|-|-|-
+-|IEEE Transactions on Cybernetics|-|-|-|-
+TFS|IEEE Transactlons on Fuzzy Systems|-|-|-|-
+PR|Pattern Recognltlon|-|-|-|-
+TAC|IEEE Transactions on Affective Comput'ng|-|-|-|-
+JBI|Journal Of Biomedical Informatics|-|-|-|-
+-|Neural Networks|-|-|-|-
+-|KNOWLEDGE-BASED SYSTEMS|-|-|-|-
+Expert Syst. Appl.|Expert Systems with Applications|-|-|-|-
+PRL|Pattern Recognltlon Letters|-|-|-|-
+JAIR|Journal Of Artificial Intelligence Research|-|-|-|-
+CVIU|Computer Vision and Image Understanding|-|-|-|-
+EAAI|Engineering Applications Of Artificial Intelligence|-|-|-|-
+-|International Journal Of Neural Systems|-|-|-|-
+-|Neurocomputlng|-|-|-|-
+-|Evolutionary Computation|-|-|-|-
+-|Computational Linguistics|-|-|-|-
+-|Machine Learning|-|-|-|-
+AIM|Artificial Intelligence in Medicine|-|-|-|-
+-|Image and Vision Computlng|-|-|-|-
+-|Computer Speech and Language|2020-02-01|-|-|-
+-|Journal Of Automated Reasoning|-|-|-|-
+IJAR|International Journal Of Approximate Reasoning|-|-|-|-
+AAMAS|Autonomous Agents and Multi-Agent Systems|2019-11-15|-|-|-
+IJIS|International Journal Of Intelligent Systems|-|-|-|-
+TG|IEEE Transactlons on Games|-|-|-|-
+JSLHR|Journal Of Speech, Language, and Hearing Research|-|-|-|-
+-|Neural Computation|-|-|-|-
+-|Applied Intelligence|-|-|-|-
+TACL|Transactions of the Association for Computational Linguistics|-|-|-|-
+-|智 能 系 统 学 报|-|-|-|-
+-|中 文 信 息 学 报|-|-|-|-
+A类会议| | | | |
+CVPR|IEEE Conference on Computer Vision and Pattern Recognition|2019-11-15|-|-|-
+ICCV|International Conference on Computer Vision|2019-03-01|-|-|-
+ICML|International Conference on Machine Learning|2020-02-07|-|-|-
+ACL|Annual Meeting of the Association for Computational Linguistics|2019-12-09|-|-|-
+ECCV|European Conference on Computer Vision|2020-03-05|-|-|-
+COLT|Annual Conference on Computational Learning Theory|2020-01-31|-|-|-
+NeuriPS|Annual Conference on Neural Information Processing Systems|2019-05-23|-|-|-
+AAA I|AAAI Conference on Artificial Intelligence|2019-09-05|-|-|-
+EMNLP|Conference on Empirical Methods in Natural Language Processing|2019-05-21|-|-|-
+ICRA|IEEE International Conference on Robotics and Automation|2019-09-15|-|-|-
+ICLR|International Conference on Learning Representations|-|-|-|-
+RSS|Robotics: Science and Systems ? A Robotics Conference|-|-|-|-
+B类会议| | | | |
+BMVC|British Machine Vision Conference|2019-04-29|-|-|-
+AISTATS|Artificial Intelligence and Statistics|2019-10-08|-|-|-
+NAACL|The Annual Conference of the North American Chapter of the Association for Computational Linguistics|2019-12-09|-|-|-
+IJCAI|International Joint Conference on Artificial Intelligence|2020-01-21|-|-|-
+AAMAS|International Joint Conference on Autonomous Agents and Multi-agent Systems|2019-11-15|-|-|-
+ICAPS|International Conference on Automated Planning and Scheduling|2019-11-20|-|-|-
+ICB|International Joint Conference on Biometrics|2019-12-09|-|-|-
+GECCO|Genetic and Evolutionary Computation Conference|2020-02-06|-|-|-
+ICPR|International Conference on Pattern Recognition|2020-03-02|-|-|-
+FG|International Conference on Automatic Face and Gesture Recognition|2019-09-27|-|-|-
+ICDAR|International Conference on Document Analysis and Recognition|2019-02-15|-|-|-
+IROS|IEEERSJ International Conference on Intelligent Robots and Systems|2020-03-01|-|-|-
+COLING|International Conference on Computational Linguistics|2020-04-08|-|-|-
+IJCNN|International Joint Conference on Neural Networks|2018-12-15|-|-|-
+UAI|International Conference on Uncertainty in Artificial Intelligence|2020-02-20|-|-|-
+ALT|International Conference on Algorithmic Learning Theory|2019-09-20|-|-|-
+RecSys|Conference on Recommender Systems|-|-|-|-
+## 数据库与数据挖掘
+名称|全称|截稿时间|结果时间|篇幅|官网
+-|-|-|-|-|-
+A类期刊| | | | |
+TKDE|IEEE Transactions on Knowledge and Data Engineering|-|-|-|-
+VLDBJ|The VLDB Journal|-|-|-|-
+TODS|ACM Transactions on Database Systems|-|-|-|-
+TOIS|ACM Transactions on Information Systems|-|-|-|-
+B类期刊| | | | |
+I&M|Information and Management|-|-|-|-
+EJIS|European Journal of Information Systems|-|-|-|-
+IJGIS|International Journal of Geographical Information Science|-|-|-|-
+J. Strategic Inf. Sys.|Journal of Strategic Information Systems|-|-|-|-
+JASIST|Journal of the American Society for Information Science and Technology|-|-|-|-
+IPM|Information Processing and Management|-|-|-|-
+IS|Information Systems|2020-02-15|-|-|-
+JWS|Journal of Web Semantics|2020-01-24|-|-|-
+DMKD|Data Mining and Knowledge Discovery|-|-|-|-
+KAIS|Knowledge and Information Systems|-|-|-|-
+TKDD|ACM Transactions on Knowledge Discovery from Data|-|-|-|-
+AEI|Advanced Engineering Informatics|-|-|-|-
+IJIS|International Journal of Intelligent Systems|-|-|-|-
+TWEB|ACM Transactions on the Web|-|-|-|-
+-|Information Sciences|2020-05-01|-|-|-
+-|Geolnformatica|-|-|-|-
+DKE|Data and Knowledge Engineering|-|-|-|-
+A类会议| | | | |
+SIGMOD|ACM Conference on Management Of Data|2019-07-16|2019-12-10|正文14页|[https://sigmod2020.org/](https://sigmod2020.org/)
+SIGKDD|ACM Knowledge Discovery and Data Mining|-|-|-|-
+SIGIR|International Conference on Research on Development in Information Retrieval|2020-01-22|2020-04-20|短文4，长文10页|[https://sigir.org/sigir2020/](https://sigir.org/sigir2020/)
+WSDM|ACM International Conference on Web Search and Data Mining|2019-08-16|-|-|-
+VLDB|International Conference on Very Large Data Bases|2020-03-01|-|-|-
+ICDE|IEEE International Conference on Data Engineering|2019-06-15|-|-|-
+PODS|ACM Symposium on Principles Of Database Systems|2019-12-22|-|-|-
+B类会议| | | | |
+ISWC|IEEE International Semantic Web Conference|2019-04-10|-|-|-
+CIKM|ACM International Conference on Information and Knowledge Management|2020-05-01|-|-|-
+SDM|SIAM International Conference on Data Mining|2019-10-11|-|-|-
+ICDT|International Conference on Database Theory|2019-09-23|-|-|-
+ICDM|International Conference on Data Mining|2019-06-05|-|-|-
+ECIR|European Conference on IR Research|2019-10-01|-|-|-
+EDBT|International Conference on Extending Database Technology|2019-10-11|-|-|-
+CIDR|International Conference on Innovative Data Systems Research|2019-08-23|-|-|-
+DASFAA|Database Systems for Advanced Applications|2019-12-20|-|-|-
+## 计算机图形学与多媒体
+名称|全称|截稿时间|结果时间|篇幅|官网
+-|-|-|-|-|-
+A类期刊| | | | |
+TIP|IEEE Transactions on Image Processing|-|-|-|-
+TOG|ACM Transactions on Graphics|-|-|-|-
+TMM|IEEE Transactions on Multimedia|-|-|-|-
+TVCG|IEEE Transactions on Visualization and Computer Graphics|-|-|-|-
+CAD|Computer-Aided Design|-|-|-|-
+B类期刊| | | | |
+-|Signal Processing|-|-|-|-
+TCSVT|IEEE Transactions on Circuits and Systems for Video Technology|-|-|-|-
+SilMS|SIAM Journal on Imaging Sciences|-|-|-|-
+CG|Computers & Graphics|2020-02-01|-|-|-
+SPL|IEEE Signal Processing Letters|-|-|-|-
+CGF|Computer Graphics Forum|-|-|-|-
+Speech Com|Speech Communication|2020-11-30|-|-|-
+CAGD|Computer Aided Geometric Design|-|-|-|-
+-|计算机辅助设计与图形学学报|-|-|-|-
+-|中国图像图形学报|-|-|-|-
+-|图学学报|-|-|-|-
+A类会议| | | | |
+SIGGRAPH|ACM SIGGRAPH Annual Conference|2020-01-22|-|-|-
+IEEE VIS|IEEE Visualization Conference|2019-03-31|-|-|-
+ACM MM|ACM International Conference on Multimedia|2019-04-01|-|-|-
+VR|IEEE Virtual Reality|2019-09-10|-|-|-
+B类会议| | | | |
+SPM|Symposium on Solid and Physical Modeling|2020-01-20|-|-|-
+EGSR|Eurographics Symposium on Rendering|2020-04-07|-|-|-
+ISMAR|International Symposium on Mixed and Augmented Reality|2019-03-22|-|-|-
+EG|Eurographics|2019-10-03|-|-|-
+SGP|Eurographics Symposium on Geometry Processing|2019-04-11|-|-|-
+SCA|ACM/Eurographics Symposium on Computer Animation|2020-05-07|-|-|-
+EuroVis|Eurographics Conference on Visualization|2019-12-05|-|-|-
+ICASSP|IEEE International Conference on Acoustics, Speech and SP|2019-10-21|-|-|-
+ICMR|ACM SIGMM International Conference on Multimedia Retrieval|2020-01-11|-|-|-
+ICIP|International Conference on Image Processing|2020-01-31|-|-|-
+SI3D|ACM Symposium on Interactive 3D Graphics|2019-12-13|-|-|-
+PacificVis|IEEE Pacific Visualization Symposium|2019-10-04|-|-|-
+PG|Pacific Graphics: The Pacific Conference on Computer Graphics and Applications|-|-|-|-
+DCC|Data Compression Conference|2019-11-01|-|10页全文|[https://www.cs.brandeis.edu/~dcc/](https://www.cs.brandeis.edu/~dcc/)
 ## 高性能计算
 名称|全称|截稿时间|结果时间|篇幅|官网
 -|-|-|-|-|-
@@ -272,166 +431,6 @@ SCC|International Conference on Service Computing|2020-02-05|-|-|-
 ICWS|International Conference on Web Services (Research Track)|2019-12-06|-|-|-
 CP|International Conference on Principles and Practice of Constraint Programming|2020-04-22|-|-|-
 ATVA|International Symposium on Automated Technology for Verification and Analysis|2020-05-03|-|-|-
-## 数据库与数据挖掘
-名称|全称|截稿时间|结果时间|篇幅|官网
--|-|-|-|-|-
-A类期刊| | | | |
-TKDE|IEEE Transactions on Knowledge and Data Engineering|-|-|-|-
-VLDBJ|The VLDB Journal|-|-|-|-
-TODS|ACM Transactions on Database Systems|-|-|-|-
-TOIS|ACM Transactions on Information Systems|-|-|-|-
-B类期刊| | | | |
-I&M|Information and Management|-|-|-|-
-EJIS|European Journal of Information Systems|-|-|-|-
-IJGIS|International Journal of Geographical Information Science|-|-|-|-
-J. Strategic Inf. Sys.|Journal of Strategic Information Systems|-|-|-|-
-JASIST|Journal of the American Society for Information Science and Technology|-|-|-|-
-IPM|Information Processing and Management|-|-|-|-
-IS|Information Systems|2020-02-15|-|-|-
-JWS|Journal of Web Semantics|2020-01-24|-|-|-
-DMKD|Data Mining and Knowledge Discovery|-|-|-|-
-KAIS|Knowledge and Information Systems|-|-|-|-
-TKDD|ACM Transactions on Knowledge Discovery from Data|-|-|-|-
-AEI|Advanced Engineering Informatics|-|-|-|-
-IJIS|International Journal of Intelligent Systems|-|-|-|-
-TWEB|ACM Transactions on the Web|-|-|-|-
--|Information Sciences|2020-05-01|-|-|-
--|Geolnformatica|-|-|-|-
-DKE|Data and Knowledge Engineering|-|-|-|-
-A类会议| | | | |
-SIGMOD|ACM Conference on Management Of Data|2019-07-16|2019-12-10|正文14页|[https://sigmod2020.org/](https://sigmod2020.org/)
-SIGKDD|ACM Knowledge Discovery and Data Mining|-|-|-|-
-SIGIR|International Conference on Research on Development in Information Retrieval|2020-01-22|2020-04-20|短文4，长文10页|[https://sigir.org/sigir2020/](https://sigir.org/sigir2020/)
-WSDM|ACM International Conference on Web Search and Data Mining|2019-08-16|-|-|-
-VLDB|International Conference on Very Large Data Bases|2020-03-01|-|-|-
-ICDE|IEEE International Conference on Data Engineering|2019-06-15|-|-|-
-PODS|ACM Symposium on Principles Of Database Systems|2019-12-22|-|-|-
-B类会议| | | | |
-ISWC|IEEE International Semantic Web Conference|2019-04-10|-|-|-
-CIKM|ACM International Conference on Information and Knowledge Management|2020-05-01|-|-|-
-SDM|SIAM International Conference on Data Mining|2019-10-11|-|-|-
-ICDT|International Conference on Database Theory|2019-09-23|-|-|-
-ICDM|International Conference on Data Mining|2019-06-05|-|-|-
-ECIR|European Conference on IR Research|2019-10-01|-|-|-
-EDBT|International Conference on Extending Database Technology|2019-10-11|-|-|-
-CIDR|International Conference on Innovative Data Systems Research|2019-08-23|-|-|-
-DASFAA|Database Systems for Advanced Applications|2019-12-20|-|-|-
-## 人工智能与模式识别
-名称|全称|截稿时间|结果时间|篇幅|官网
--|-|-|-|-|-
-A类期刊| | | | |
-TPAMI|IEEE Trans on Pattern Analysis and Machine Intelligence|-|-|-|-
-IJCV|International Journal of Computer Vision|-|-|-|-
-JMLR|Journal of Machine Learning Research|-|-|-|-
-TR|IEEE Transactions on Robotics|-|-|-|-
-Al|Artificial Intelligence|2020-03-01|-|-|-
-TASLP|IEEE Transactions on Audio Speech, and Language Processing|-|-|-|-
-B类期刊| | | | |
-TEC|IEEE Transactions on Evolutionary Computation|-|-|-|-
-TNNLS|IEEE Transactions on Neural Networks and learning systems|-|-|-|-
--|IEEE Transactions on Cybernetics|-|-|-|-
-TFS|IEEE Transactlons on Fuzzy Systems|-|-|-|-
-PR|Pattern Recognltlon|-|-|-|-
-TAC|IEEE Transactions on Affective Comput'ng|-|-|-|-
-JBI|Journal Of Biomedical Informatics|-|-|-|-
--|Neural Networks|-|-|-|-
--|KNOWLEDGE-BASED SYSTEMS|-|-|-|-
-Expert Syst. Appl.|Expert Systems with Applications|-|-|-|-
-PRL|Pattern Recognltlon Letters|-|-|-|-
-JAIR|Journal Of Artificial Intelligence Research|-|-|-|-
-CVIU|Computer Vision and Image Understanding|-|-|-|-
-EAAI|Engineering Applications Of Artificial Intelligence|-|-|-|-
--|International Journal Of Neural Systems|-|-|-|-
--|Neurocomputlng|-|-|-|-
--|Evolutionary Computation|-|-|-|-
--|Computational Linguistics|-|-|-|-
--|Machine Learning|-|-|-|-
-AIM|Artificial Intelligence in Medicine|-|-|-|-
--|Image and Vision Computlng|-|-|-|-
--|Computer Speech and Language|2020-02-01|-|-|-
--|Journal Of Automated Reasoning|-|-|-|-
-IJAR|International Journal Of Approximate Reasoning|-|-|-|-
-AAMAS|Autonomous Agents and Multi-Agent Systems|2019-11-15|-|-|-
-IJIS|International Journal Of Intelligent Systems|-|-|-|-
-TG|IEEE Transactlons on Games|-|-|-|-
-JSLHR|Journal Of Speech, Language, and Hearing Research|-|-|-|-
--|Neural Computation|-|-|-|-
--|Applied Intelligence|-|-|-|-
-TACL|Transactions of the Association for Computational Linguistics|-|-|-|-
--|智 能 系 统 学 报|-|-|-|-
--|中 文 信 息 学 报|-|-|-|-
-A类会议| | | | |
-CVPR|IEEE Conference on Computer Vision and Pattern Recognition|2019-11-15|-|-|-
-ICCV|International Conference on Computer Vision|2019-03-01|-|-|-
-ICML|International Conference on Machine Learning|2020-02-07|-|-|-
-ACL|Annual Meeting of the Association for Computational Linguistics|2019-12-09|-|-|-
-ECCV|European Conference on Computer Vision|2020-03-05|-|-|-
-COLT|Annual Conference on Computational Learning Theory|2020-01-31|-|-|-
-NeuriPS|Annual Conference on Neural Information Processing Systems|2019-05-23|-|-|-
-AAA I|AAAI Conference on Artificial Intelligence|2019-09-05|-|-|-
-EMNLP|Conference on Empirical Methods in Natural Language Processing|2019-05-21|-|-|-
-ICRA|IEEE International Conference on Robotics and Automation|2019-09-15|-|-|-
-ICLR|International Conference on Learning Representations|-|-|-|-
-RSS|Robotics: Science and Systems ? A Robotics Conference|-|-|-|-
-B类会议| | | | |
-BMVC|British Machine Vision Conference|2019-04-29|-|-|-
-AISTATS|Artificial Intelligence and Statistics|2019-10-08|-|-|-
-NAACL|The Annual Conference of the North American Chapter of the Association for Computational Linguistics|2019-12-09|-|-|-
-IJCAI|International Joint Conference on Artificial Intelligence|2020-01-21|-|-|-
-AAMAS|International Joint Conference on Autonomous Agents and Multi-agent Systems|2019-11-15|-|-|-
-ICAPS|International Conference on Automated Planning and Scheduling|2019-11-20|-|-|-
-ICB|International Joint Conference on Biometrics|2019-12-09|-|-|-
-GECCO|Genetic and Evolutionary Computation Conference|2020-02-06|-|-|-
-ICPR|International Conference on Pattern Recognition|2020-03-02|-|-|-
-FG|International Conference on Automatic Face and Gesture Recognition|2019-09-27|-|-|-
-ICDAR|International Conference on Document Analysis and Recognition|2019-02-15|-|-|-
-IROS|IEEERSJ International Conference on Intelligent Robots and Systems|2020-03-01|-|-|-
-COLING|International Conference on Computational Linguistics|2020-04-08|-|-|-
-IJCNN|International Joint Conference on Neural Networks|2018-12-15|-|-|-
-UAI|International Conference on Uncertainty in Artificial Intelligence|2020-02-20|-|-|-
-ALT|International Conference on Algorithmic Learning Theory|2019-09-20|-|-|-
-RecSys|Conference on Recommender Systems|-|-|-|-
-## 计算机图形学与多媒体
-名称|全称|截稿时间|结果时间|篇幅|官网
--|-|-|-|-|-
-A类期刊| | | | |
-TIP|IEEE Transactions on Image Processing|-|-|-|-
-TOG|ACM Transactions on Graphics|-|-|-|-
-TMM|IEEE Transactions on Multimedia|-|-|-|-
-TVCG|IEEE Transactions on Visualization and Computer Graphics|-|-|-|-
-CAD|Computer-Aided Design|-|-|-|-
-B类期刊| | | | |
--|Signal Processing|-|-|-|-
-TCSVT|IEEE Transactions on Circuits and Systems for Video Technology|-|-|-|-
-SilMS|SIAM Journal on Imaging Sciences|-|-|-|-
-CG|Computers & Graphics|2020-02-01|-|-|-
-SPL|IEEE Signal Processing Letters|-|-|-|-
-CGF|Computer Graphics Forum|-|-|-|-
-Speech Com|Speech Communication|2020-11-30|-|-|-
-CAGD|Computer Aided Geometric Design|-|-|-|-
--|计算机辅助设计与图形学学报|-|-|-|-
--|中国图像图形学报|-|-|-|-
--|图学学报|-|-|-|-
-A类会议| | | | |
-SIGGRAPH|ACM SIGGRAPH Annual Conference|2020-01-22|-|-|-
-IEEE VIS|IEEE Visualization Conference|2019-03-31|-|-|-
-ACM MM|ACM International Conference on Multimedia|2019-04-01|-|-|-
-VR|IEEE Virtual Reality|2019-09-10|-|-|-
-B类会议| | | | |
-SPM|Symposium on Solid and Physical Modeling|2020-01-20|-|-|-
-EGSR|Eurographics Symposium on Rendering|2020-04-07|-|-|-
-ISMAR|International Symposium on Mixed and Augmented Reality|2019-03-22|-|-|-
-EG|Eurographics|2019-10-03|-|-|-
-SGP|Eurographics Symposium on Geometry Processing|2019-04-11|-|-|-
-SCA|ACM/Eurographics Symposium on Computer Animation|2020-05-07|-|-|-
-EuroVis|Eurographics Conference on Visualization|2019-12-05|-|-|-
-ICASSP|IEEE International Conference on Acoustics, Speech and SP|2019-10-21|-|-|-
-ICMR|ACM SIGMM International Conference on Multimedia Retrieval|2020-01-11|-|-|-
-ICIP|International Conference on Image Processing|2020-01-31|-|-|-
-SI3D|ACM Symposium on Interactive 3D Graphics|2019-12-13|-|-|-
-PacificVis|IEEE Pacific Visualization Symposium|2019-10-04|-|-|-
-PG|Pacific Graphics: The Pacific Conference on Computer Graphics and Applications|-|-|-|-
-DCC|Data Compression Conference|2019-11-01|-|10页全文|[https://www.cs.brandeis.edu/~dcc/](https://www.cs.brandeis.edu/~dcc/)
 ## 人机交互与普适计算
 名称|全称|截稿时间|结果时间|篇幅|官网
 -|-|-|-|-|-
