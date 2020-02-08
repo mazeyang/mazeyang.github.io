@@ -5,9 +5,10 @@ tag: Rumor_Detection
 
 ---
 
+谣言检测17-19年研究进展
 
-| 谣言检测17-19年研究进展 |
-| --- |
+<!--more-->
+
 | 年份 | CCF | 会议 | 题目 | 算法 | 研究组 | 备注 |
 | 19 | A | WWW | Detect Rumors on Twitter by Promoting Information Campaigns with Generative Adversarial Learning | GAN(GRU based) | [CUHK] Ma Jing | 基于GAN的思想，提出两个生成器功能分别为1）输入谣言特征表示输出真实Twitter特征表示和2）输入真实Twitter特征表示输出谣言特征表示，通过生成器生成与输入特征表示相反的特征用于迷惑判别器，增强判别器判断谣言的能力。其中生成器及判别器均基于GRU实现。用了二分类的TWITTER和pheme数据集。 |
 | 19 | A | WWW | Reply Aided Detection of Misinformation via Bayesian Deep Learning | BiLSTM + MLP | [UCL] | 将claim构成词向量序列输入BiLSTM中编码，再接MLP并由多元高斯分布求得潜在随机变量z，同时将所有回复的词向量输入BiLSTM和LSTM编码得到隐状态h，通过将z和h拼接输入MLP得到谣言检测结果，用了RumourEval和PHEME数据集。 |
