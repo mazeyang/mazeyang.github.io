@@ -87,11 +87,11 @@ toc:
 ## => Markdown Enhancements
 ##############################
 ## Mathjax
-mathjax: false
-mathjax_autoNumber: false
+mathjax: true
+mathjax_autoNumber: true
 
 ## Mermaid
-mermaid: false
+mermaid: true
 
 ## Chart
 chart: true
